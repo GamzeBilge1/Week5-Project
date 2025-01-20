@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\bin\Debug\net8.0\Week5-Pratic.exe
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\bin\Debug\net8.0\Week5-Pratic.deps.json
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\bin\Debug\net8.0\Week5-Pratic.runtimeconfig.json
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\bin\Debug\net8.0\Week5-Pratic.dll
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\bin\Debug\net8.0\Week5-Pratic.pdb
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\obj\Debug\net8.0\Week5-Pratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\obj\Debug\net8.0\Week5-Pratic.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\obj\Debug\net8.0\Week5-Pratic.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\obj\Debug\net8.0\Week5-Pratic.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\obj\Debug\net8.0\Week5-Pratic.sourcelink.json
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\obj\Debug\net8.0\Week5-Pratic.dll
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\obj\Debug\net8.0\refint\Week5-Pratic.dll
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\obj\Debug\net8.0\Week5-Pratic.pdb
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\obj\Debug\net8.0\Week5-Pratic.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Week5-Pratic\Week5-Pratic\obj\Debug\net8.0\ref\Week5-Pratic.dll
